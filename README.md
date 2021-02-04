@@ -1,5 +1,5 @@
 # GAIH Python Learning Exercises
-![](img/logo.png)
+![](Images/logo.png)
 
 **Course Date:** 01.02.2021 - 05.02.2021  
 **Name:** Züleyha  
